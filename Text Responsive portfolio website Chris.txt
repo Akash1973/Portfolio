@@ -8,9 +8,8 @@ Home - Skills - Qualification - Services - Projects - Contact
 
 ========== HOME ==========
 .home__title
-Hi, I’m Chris <br>
-Frontend Developer <br>
-Based In Perú <br>
+Hi, I’m Akash <br>
+Full Stack Developer <br>
 
 .home__social
 https://www.linkedin.com/
